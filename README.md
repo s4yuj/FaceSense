@@ -10,4 +10,4 @@ FaceSense is a comprehensive facial recognition system developed using Python, O
 - Webcam Display with Real-time Feedback: FaceSense offers a user-friendly webcam display that showcases the real-time face recognition process, providing visual feedback by displaying recognized names associated with detected faces.
 
 ## Guidance:
-This project was developed under the guidance of Ms. Monica Dewanand Ms. Vandana Sabharwal as part of the CBSE Class 12 Final Project.
+This project was developed under the guidance of Ms. Monica Dewan Ms. Vandana Sabharwal as part of the CBSE Class 12 Final Project.
